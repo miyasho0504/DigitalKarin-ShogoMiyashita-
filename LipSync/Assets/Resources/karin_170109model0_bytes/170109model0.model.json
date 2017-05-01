@@ -1,0 +1,17 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "170109model0",
+	"model": "170109model0.moc",
+	"textures": [
+		"170109model0.2048/texture_00.png",
+		"170109model0.2048/texture_01.png",
+		"170109model0.2048/texture_02.png",
+		"170109model0.2048/texture_03.png",
+		"170109model0.2048/texture_04.png",
+		"170109model0.2048/texture_05.png",
+		"170109model0.2048/texture_06.png",
+		"170109model0.2048/texture_07.png",
+		"170109model0.2048/texture_08.png",
+		"170109model0.2048/texture_09.png"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"type":"Live2D Pose",
+	"fade_in":100,
+	"parts_visible":[
+		{
+			"group":[
+				{"id":"PARTS_01_OJIGI"},
+				{"id":"PARTS_01_ARMS"},
+				{"id":"PARTS_01_prejanken"},
+				{"id":"PARTS_01_janken"},
+				{"id":"PARTS_01_jankeng"},
+				{"id":"PARTS_01_jankenc"},
+				{"id":"PARTS_01_jankenp"},
+				{"id":"PARTS_01_shuffle"},
+				{"id":"PARTS_01_clapA"},
+				{"id":"PARTS_01_clapB"},
+				{"id":"PARTS_01_miss"}
+			]
+		}
+	]
+}

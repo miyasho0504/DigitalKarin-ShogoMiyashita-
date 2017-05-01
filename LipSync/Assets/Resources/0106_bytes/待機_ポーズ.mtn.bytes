@@ -1,0 +1,18 @@
+# Live2D Animator Motion Data
+$fps=30
+
+$fadein=1000
+
+$fadeout=1000
+
+VISIBLE:PARTS_01_OJIGI=0
+VISIBLE:PARTS_01_ARMS=1
+VISIBLE:PARTS_01_prejanken=0
+VISIBLE:PARTS_01_janken=0
+VISIBLE:PARTS_01_jankeng=0
+VISIBLE:PARTS_01_jankenc=0
+VISIBLE:PARTS_01_jankenp=0
+VISIBLE:PARTS_01_shuffle=0
+VISIBLE:PARTS_01_clapA=0
+VISIBLE:PARTS_01_clapB=0
+VISIBLE:PARTS_01_miss=0
