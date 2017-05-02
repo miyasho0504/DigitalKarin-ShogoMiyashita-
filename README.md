@@ -1,3 +1,4 @@
+![img_0418](https://cloud.githubusercontent.com/assets/17020011/25613994/26f08742-2f6b-11e7-9659-699e7fb1a87a.JPG)
 【作品名】デジタルかりんちゃん
 
 【ジャンル】バーチャル店員さんシステム
